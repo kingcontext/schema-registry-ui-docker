@@ -6,7 +6,7 @@ The schema-registry-ui connect to Confluent's [schema-registry](https://github.c
 
 The image requires the configuration of the schema-registry-url to connect to, e.g. running in another docker container on the same docker network.
 
-Run it by executing  
+No need to build it yourself, it's available as kingcontext/schema-registry-ui. Just run it by executing  
 
 ```
 docker run -d --name schema-registry-ui -e "SCHEMA_REGISTRY_URL=http://schema-registry:8881" -t kingcontext/schema-registry-ui
