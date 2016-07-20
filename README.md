@@ -1,6 +1,6 @@
 # schema-registry-ui docker image
 
-Docker image for Landoop's [schema-registry-ui](https://github.com/Landoop/schema-registry-ui) v.0.3, running on an nginx.
+Docker image for Landoop's [schema-registry-ui](https://github.com/Landoop/schema-registry-ui) v.0.2, running on an nginx.
 
 The schema-registry-ui connect to Confluent's [schema-registry](https://github.com/confluentinc/schema-registry) that is a vital part of the [Confluent stream data platform](http://www.confluent.io/product).
 
