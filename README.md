@@ -1,4 +1,4 @@
-# schema-registry-ui-image
+# schema-registry-ui docker image
 
 Docker image for Landoop's [schema-registry-ui](https://github.com/Landoop/schema-registry-ui) v.0.3, running on an nginx.
 
