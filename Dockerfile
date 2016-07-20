@@ -4,7 +4,7 @@ USER root
 
 ADD schema-registry-ui.tar.gz /schema-registry-ui
 
-COPY env.js.template /schema-registry-ui/
+COPY env.js.template /schema-registry-ui/env.js.template
 COPY nginx.conf /etc/nginx/nginx.conf
 
 EXPOSE 80
