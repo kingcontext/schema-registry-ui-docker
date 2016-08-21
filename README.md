@@ -1,3 +1,8 @@
+
+This is now deprecated and no longer updated, as the author released official docker images. See https://hub.docker.com/u/landoop/ .
+
+
+
 # schema-registry-ui docker image
 
 Docker image for Landoop's [schema-registry-ui](https://github.com/Landoop/schema-registry-ui) v.0.3, running on an nginx.
